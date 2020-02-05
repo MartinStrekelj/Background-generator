@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 15%;
+    background: linear-gradient(to right, red, yellow);
+}
+
+h1, h2 {
+    
+    font-size: 3em;
+    font-family: "Bangers", cursive;
+}
